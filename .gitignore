@@ -1,0 +1,10 @@
+
+*.log
+__pycache__
+*.pyc
+
+
+# specific files to be ignored
+nope_scraper.py
+nope-access-selenium.py
+nope-access.py
